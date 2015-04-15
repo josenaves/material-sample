@@ -19,8 +19,10 @@
     <string name="title_messages">Messages</string>
     <string name="title_friends">Friends</string>
     <string name="title_home">Home</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main">Material Coffee Shop</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="label_order_coffee">Order coffee</string>
+
+
 
 </resources>
